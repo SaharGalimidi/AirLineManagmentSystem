@@ -1,4 +1,3 @@
-<h1>Airline Management System</h1>
 <img src="https://github.com/SaharGalimidi/AirLineManagmentSystem/blob/main/airline%20image.jpeg" alt="Airline Management System logo">
 <p>This project is to create a simple airline management system using the C programming language. The system allows users to manage flights and reservations.</p>
 
